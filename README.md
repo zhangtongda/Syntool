@@ -15,7 +15,7 @@ tabix -p bed Syntool.bed.gz
 
 tabix Syntool.bed.gz chr1:103444941-103444941
 
-##for the result, Syntool scores range from -28.62567126 to 59.26623025. The smaller the score the more likely the SNP has damaging effect. If a Syntool score is <=0 (or score percentile <=0.5) the corresponding mutation is predicted as cause disease-causing.
+##for the result, Syntool scores range from -28.62567126 to 59.26623025. The smaller the score the more likely the SNP has damaging effect. If a Syntool score is <=0 (or score percentile <=0.5) the corresponding mutation is predicted as disease-causing.
 
 
 
